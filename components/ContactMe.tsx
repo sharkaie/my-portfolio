@@ -4,7 +4,7 @@ import {PhoneIcon, MapPinIcon, EnvelopeIcon} from '@heroicons/react/24/solid';
 import { useForm, SubmitHandler } from "react-hook-form";
 import { PageInfo } from '../typings';
 
-
+// commwent
 type Props = {
     pageInfo: PageInfo
 }
